@@ -22,7 +22,7 @@ It combines two main components:
 - 🧹 **Text cleaning & normalization** (accents, casing, noise removal)  
 - 🤖 **Observation classifier** powered by HuggingFace Transformers & ONNXRuntime  
 - 🗂 **Specialty detection & matching** from PDF headers  
-- 📊 **Excel integration** – appends observations to the correct “Matriz de Observaciones” using `openpyxl`  
+- 📊 **Excel integration** – appends observations using `openpyxl`  
 - 🌐 **REST API** endpoints (`/ping`, `/upload`)  
 - 🛠 **CLI tools** for cleaning, training, and inference  
 
