@@ -5,16 +5,7 @@ import json
 
 API_URL = "http://localhost:5000/upload" 
 PDF_PATH = "docs/ejemplo.pdf"
-EXCEL_PATHS = ["docs/BIM_20250508_EDMAX_BIM_ANI_Matriz_de_observaciones.xlsx", 
-               "docs/ELECTRICA_20250508_EDMAX_ELE_ANI_Matriz_de_observaciones.xlsx",
-               "docs/GEOL Y ESTRUCT_20250508_EDMAX_EST Y GEOL_ANI_Matriz_de_observaciones.xlsx",
-               "docs/GEOMETRICO_20250327_EDMAX_ANI_Matriz_de_observaciones_Geometrico.xlsx",
-               "docs/PAVIMENTOS_20250705_EDMAX_ANI_Matriz_de_observaciones.xlsx",
-               "docs/SEG VIAL_20250327_EDMAX_ANI_Matriz_de_observaciones_SGV.xlsx",
-               "docs/TOPOGRAFIA _20250327_EDMAX_ANI_Matriz_de_observaciones.xlsx",
-               "docs/TRANSITO_20250507_EDMAX_TRAN_ANI_Matriz_de_observaciones.xlsx"
-               ]
-
+EXCEL_PATHS = ["XXX/YYY.xlsx"]
 OUTPUT_JSON = "docs/output.json"
 
 def test_upload_pdf():
