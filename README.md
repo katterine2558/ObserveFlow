@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Overview
-This project provides a **complete pipeline** to process technical PDF reports and automatically detect, classify, and map observations into their corresponding Excel “Matriz de Observaciones”.
+This project provides a **complete pipeline** to process technical PDF reports and automatically detect, classify, and map observations into their corresponding Excel.
 
 It combines two main components:
 
